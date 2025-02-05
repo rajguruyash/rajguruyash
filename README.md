@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Welcome to My GitHub Profile!
 
-<!--
-**rajguruyash/rajguruyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a Computer Science Engineering student in my final year, passionate about programming, music, and technology. I enjoy working with Python, web development, and crypto security, and I'm currently learning Java for my studies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Interests & Skills:
+💻 Coding & Software Development
+🎵 Music Production (Ableton, FL Studio)
+🔐 Crypto Security & Asset Management
+🎨 Chess, Swimming & Drawing
+🚀 Current Goals:
+Master Java & Advanced Programming Concepts
+Improve my English fluency & communication skills
+Explore blockchain & cryptocurrency security
+📫 Connect with Me:
+Feel free to reach out if you want to collaborate or discuss anything interesting!
